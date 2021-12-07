@@ -7,11 +7,11 @@
 
 <div align="center">
   <h3>
-    <a href="https://{your-demo-link.your-domain}">
+    <a href="https://shrutishinde418.github.io/404-not-found/">
       Demo
     </a>
     <span> | </span>
-    <a href="https://{your-url-to-the-solution}">
+    <a href="https://github.com/ShrutiShinde418/404-not-found">
       Solution
     </a>
     <span> | </span>
@@ -33,14 +33,9 @@
 
 ## Overview
 
-![screenshot](https://user-images.githubusercontent.com/16707738/92399059-5716eb00-f132-11ea-8b14-bcacdc8ec97b.png)
+![screenshot](https://github.com/ShrutiShinde418/404-not-found/blob/1af7ae9a14782d43d327e3e0a87436b2fa0a139b/Website%20Screenshot.png)
 
-
-
-- Where can I see your demo?
-- What was your experience?
-- What have you learned/improved?
-- Your wisdom? :)
+- Learnt how to build responsive website using HTML and plain CSS
 
 ### Built With
 
