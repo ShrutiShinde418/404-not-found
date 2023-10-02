@@ -25,6 +25,7 @@
 
 ## Table of Contents
 
+- [Table of Contents](#table-of-contents)
 - [Overview](#overview)
   - [Built With](#built-with)
 - [Contact](#contact)
@@ -33,7 +34,7 @@
 
 ## Overview
 
-![screenshot](https://github.com/ShrutiShinde418/404-not-found/blob/1af7ae9a14782d43d327e3e0a87436b2fa0a139b/Website%20Screenshot.png)
+![screenshot](./screenshot.png)
 
 - Learnt how to build responsive website using HTML and plain CSS
 
